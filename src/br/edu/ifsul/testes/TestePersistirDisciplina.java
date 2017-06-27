@@ -1,10 +1,10 @@
 package br.edu.ifsul.testes;
 
 import br.edu.ifsul.jpa.EntityManagerUtil;
-import br.ifsul.edu.modelo.Curso;
-import br.ifsul.edu.modelo.Disciplina;
-import br.ifsul.edu.modelo.Especialidade;
-import br.ifsul.edu.modelo.Instituicao;
+import br.edu.ifsul.modelo.Curso;
+import br.edu.ifsul.modelo.Disciplina;
+import br.edu.ifsul.modelo.Especialidade;
+import br.edu.ifsul.modelo.Instituicao;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 import javax.persistence.EntityManager;

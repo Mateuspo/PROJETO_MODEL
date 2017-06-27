@@ -1,10 +1,10 @@
 package br.edu.ifsul.testes;
 
 import br.edu.ifsul.jpa.EntityManagerUtil;
-import br.ifsul.edu.modelo.Aluno;
-import br.ifsul.edu.modelo.Disciplina;
-import br.ifsul.edu.modelo.Especialidade;
-import br.ifsul.edu.modelo.Nota;
+import br.edu.ifsul.modelo.Aluno;
+import br.edu.ifsul.modelo.Disciplina;
+import br.edu.ifsul.modelo.Especialidade;
+import br.edu.ifsul.modelo.Nota;
 import javax.persistence.EntityManager;
 
 /**

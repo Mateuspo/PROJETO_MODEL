@@ -1,8 +1,8 @@
 package br.edu.ifsul.testes;
 
 import br.edu.ifsul.jpa.EntityManagerUtil;
-import br.ifsul.edu.modelo.Especialidade;
-import br.ifsul.edu.modelo.Professor;
+import br.edu.ifsul.modelo.Especialidade;
+import br.edu.ifsul.modelo.Professor;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 import javax.persistence.EntityManager;
